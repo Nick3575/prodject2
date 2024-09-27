@@ -1,0 +1,75 @@
+.h1{
+    font-size:50px;
+    text-align: center;
+}
+.h2hp{
+    text-align:center;
+}
+.img1{
+  
+    position:relative;
+    top: 80px;
+}
+.h2{
+    position:relative;
+    top:70px;
+}
+.h3hp{
+    text-align:center;
+}
+.p{
+    width: 500px;
+    overflow:clip;
+    font-size:large;
+}
+.h2sp{
+    font-style:italic
+}
+.img2{
+    margin-left:10px;
+    float:right;
+    margin-bottom: 10px 
+    
+}
+.h2a{
+    text-align:right;
+     margin-top: -270px
+}
+.border{
+    font-size:50px;
+    text-align: center;
+    border:red;
+    border-width:thick;
+    border-style:double;
+}
+.movie2{
+    border:red;
+    border-width:thick;
+    border-style:double;
+}
+.favmovie{
+    color:red;
+}
+.h2b{
+    text-align:center;
+    padding:0px 300px;
+}
+.img3{
+    margin-left:610px;
+    float:center;
+    margin-bottom: 10px 
+}
+.p2{
+    color:white;
+    background-color: red;
+}
+ul:hover{
+    background-color: grey;
+  }
+  ol:hover{
+    background-color: grey;
+  }
+  .favoriteSong{
+    text-align:center;
+  }
+  
